@@ -4,7 +4,7 @@ html {
 	height: 100vh;
 	width: 100vw;
 	font-family: 'Fira Sans', sans-serif;
-	background-image: url("/.perseus/static/images/trees.jpg");
+	background-image: url("../images/trees.jpg");
 	background-size: cover;
 	/* background: rgb(185, 219, 235);
 	background: linear-gradient(115deg, rgb(8, 154, 223) 0%, rgb(187, 57, 247) 100%); */
